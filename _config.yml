@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Information"
+  name             : "Ryan J Connery"
   pronouns         : "he/him" 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Graduate Teaching Assistant at Wayne State University"
   location         : "Detroit, Michigan"
   employer         : "Wayne State University"
   uri              : # URL
