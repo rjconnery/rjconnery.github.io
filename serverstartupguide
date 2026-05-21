@@ -1,0 +1,9 @@
+How to start local jekyll server:
+
+https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7
+
+commands:
+
+cd C:\Users\rjcon\Documents\GitHub\rjconnery.github.io
+
+bundle exec jekyll serve
