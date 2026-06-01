@@ -29,7 +29,7 @@ latest_posts:
 
 I am a first-year PhD student primarily studying algebraic topology
 
-In my free time I try to balance between spending time with family and friends, running, and reading any fantasy novels you can throw at me.
+
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
